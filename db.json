@@ -3,12 +3,10 @@
 		"amount": null
 	},
 	"products": [{
-		"id": 1,
 		"amount": 1000,
 		"name": "Т банк",
 		"logo": "//static3.banki.ru/ugc/d4/e8/54/40/195706.png"
 	},{
-		"id": 2,
 		"amount": 10000,
 		"name": "ВТБ",
 		"logo": "//static4.banki.ru/ugc/ed/5f/1a/1c/327.png"
